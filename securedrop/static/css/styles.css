@@ -437,6 +437,10 @@ p#codename {
   color: #666666;
 }
 
+.no-submissions {
+  text-align: center;
+}
+
 ul.plain {
   list-style: none;
 }
